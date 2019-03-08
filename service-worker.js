@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/shoemaker/precache-manifest.8c008fedf1be704936b48f335dad7e9d.js"
+  "/shoemaker/precache-manifest.0181158cfce4cf65bdaf0b9ebccba7f7.js"
 );
 
 workbox.clientsClaim();
